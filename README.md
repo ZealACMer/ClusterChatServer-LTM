@@ -29,11 +29,14 @@
 #### Hiredis的安装(本项目使用v1.2.0)
 请参照[https://github.com/redis/hiredis/](https://github.com/redis/hiredis/)
 
+#### MySQL的安装(本项目使用v8.1.0)
+请参照[https://www.mysql.com/downloads/](https://www.mysql.com/downloads/)
+
 #### Mycat的安装(本项目使用v1.6.7)
 请参照[https://github.com/MyCATApache/Mycat-Server](https://github.com/MyCATApache/Mycat-Server)
 
 ## 构建
-本项目提供了一键构建脚本autobuild.sh，可一键进行编译及构建。
+本项目提供了一键构建脚本autobuild.sh，可一键进行编译及构建。（本项目使用的建表SQL在ClusterChatServer.sql中，需按照Mycat的说明文档，配置好逻辑库和物理库的映射关系）
 
 ## 使用示例
 - 首先，分别开启两个ternimal，分别输入./ChatServer 127.0.0.1 6000 ./ChatServer 127.0.0.1 6002，启动两个服务器程序。
