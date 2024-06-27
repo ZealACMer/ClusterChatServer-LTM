@@ -1,5 +1,5 @@
 # ClusterChatServer-LTM
-基于Lightweighted Tcp Muduo(LTM)的C++集群聊天服务器
+基于Lightweighted Tcp Muduo(LTM)的C++集群聊天服务器   「Aliyun CentOS 7.9 64位」
 
 ## 项目背景
 构建一个 C++ 集群聊天服务器项目是一个旨在提供高效、可扩展、高可用性的即时通信系统。这样的项目通常被设计来支持跨多个服务器节点的大规模并发连接和消息传递，使其特别适用于需要处理大量实时消息的应用场景，如社交网络、在线游戏、企业通信平台等。
