@@ -13,7 +13,7 @@
 
 ## ClusterChatServer-LTM集群聊天服务器框架
 <div align="middle">
-<img width="700" height="590" alt="mrpc框架图" src="https://github.com/ZealACMer/ClusterChatServer-LTM/assets/16794553/8d5b5587-0304-44d5-9ae6-a40bc2bf13d6">
+<img width="700" height="590" alt="ClusterChatServer-LTM" src="https://github.com/ZealACMer/ClusterChatServer-LTM/assets/16794553/8d5b5587-0304-44d5-9ae6-a40bc2bf13d6">
 </div>
                         
 ## 环境配置
